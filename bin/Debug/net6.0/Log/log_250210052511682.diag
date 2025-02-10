@@ -1,0 +1,15 @@
+2025-02-10T05:25:11.6917897+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.5.3+2a34431d753f39463aadf19674237f6c4e5b6865
+2025-02-10T05:25:11.7047120+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-02-10T05:25:11.7055158+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-02-10T05:25:11.7055258+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 05:25:11.666
+2025-02-10T05:25:11.7075910+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 15732
+2025-02-10T05:25:11.7085741+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win10-x64 - .NET 6.0.36
+2025-02-10T05:25:11.7085912+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\6.0.36\System.Private.CoreLib.dll
+2025-02-10T05:25:11.7086045+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-02-10T05:25:11.7086140+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.TestssMs\bin\Debug\net6.0\DemoUniversity.TestssMs.dll
+2025-02-10T05:25:11.7089010+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.TestssMs\bin\Debug\net6.0\Log --results-directory C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity\TestResults --client-port 64020'
+2025-02-10T05:25:11.7098535+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-02-10T05:25:11.7437585+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-02-10T05:25:11.7745799+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-02-10T05:25:12.0597872+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: 'MSTestExtension' Version: '3.7.3' DisplayName: 'MSTest' Description: 'MSTest Framework for Microsoft Testing Platform'
+2025-02-10T05:25:12.2369252+00:00 Microsoft.Testing.Extensions.VSTestBridge.ObjectModel.MessageLoggerAdapter INFORMATION Test Parallelization enabled for C:\Users\FINALLY11\Videos\New folder (2)\DemoUniversity.TestssMs\bin\Debug\net6.0\DemoUniversity.TestssMs.dll (Workers: 12, Scope: MethodLevel)
